@@ -59,5 +59,3 @@ Allow users to dynamically filter and explore the dashboard by year and country.
 3. Explore visuals using the slicers (Year, Country).  
 
 
-**Created by:** Hagar Ali Hendam  
-💼 [LinkedIn](#) | 📧 [Email](#) | 🌐 [Portfolio](#)
